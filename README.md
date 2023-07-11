@@ -1,4 +1,4 @@
-# <div align="center">**개발자의 술단속222**</div>
+# <div align="center">**개발자의 술단속**</div>
 
 ## Shoppingmall
 
