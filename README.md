@@ -25,8 +25,6 @@ MVC 2 모델 기반 와인 전문 쇼핑몰 웹 사이트를 만드는 프로젝
 ![people](https://github.com/ProjectGroup5/Sooldansok/assets/131237772/cd8514e0-56d9-4bd2-956c-7c6f43955fe6)
 
 
-
-
 ### 백엔드 및 프론트엔드
 
 ### 프론트
