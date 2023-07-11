@@ -29,7 +29,7 @@
 			<li><a class="btn" id="fst" href="productall.page">둘러보기</a></li>
 			<li><a class="btn" id="scd"  href="notice.page">공지사항</a></li>
 		</ul>
-		
+		  
 	</div>
 
 
